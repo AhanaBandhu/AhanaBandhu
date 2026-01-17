@@ -3,13 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahanabandhu" alt="ahanabandhu" /></a> </p>
 
-- 📫 How to reach me **ahanadgp2003@gmail.com**
+- 🔭 I’m currently working on [DEFECT-DETECTION-SYSTEM](https://github.com/AhanaBandhu/DEFECT-DETECTION-SYSTEM)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahana-bandhu-7875b628b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahana-bandhu-7875b628b/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ahana_bandhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahana_bandhu/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/712304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="712304" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
